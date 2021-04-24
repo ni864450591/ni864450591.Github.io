@@ -1,0 +1,13 @@
+        body {
+            background-color: black;
+        }
+
+        .ball {
+            position: absolute;
+            border-radius: 50%;
+        }
+        #ball{
+            height: 1000px;
+            width: 100%;
+            background-color: aliceblue;
+        }
