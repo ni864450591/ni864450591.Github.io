@@ -76,12 +76,17 @@
                 ballArr[i].update();
             }
         }, 20);
+        
+        const ribbon=document.getElementById('ribbon')
+
 
         // 鼠标指针的监听
         document.onmousemove = function (e) {
             // 得到鼠标指针的位置
             var x = e.clientX;
             var y = e.clientY;
-
             new Ball(x, y);
         };
+
+        
+        
