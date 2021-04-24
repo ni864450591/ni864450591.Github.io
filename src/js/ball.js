@@ -1,6 +1,6 @@
         // 小球类
-        import '../css/ball.css'
-        import '../css/index.css'
+        // import '../css/ball.css'
+        // import '../css/index.css'
         
         function Ball(x, y) {
             // 属性x、y表示的是圆心的坐标
