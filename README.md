@@ -4,7 +4,6 @@
 ## 博客首页
 https://ni864450591.github.io/index.html
 
-<<<<<<< HEAD
 ## dist目录
 使用webpack 在production下产生的
 
