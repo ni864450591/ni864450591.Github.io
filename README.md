@@ -2,7 +2,8 @@
 小倪，刚入门前端
 
 ## 博客首页
-https://ni864450591.github.io/
+https://ni864450591.github.io/index.html
+
 
 ### 一、首页 
 1.背景
