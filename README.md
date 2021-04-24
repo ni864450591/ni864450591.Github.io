@@ -7,8 +7,7 @@ https://ni864450591.github.io/index.html
 <<<<<<< HEAD
 ## dist目录
 使用webpack 在production下产生的
-=======
->>>>>>> 5e132ac4912cd8a651bd007b6ed6671c59c936af
+
 
 ### 一、首页 
 1.背景
