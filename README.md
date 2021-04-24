@@ -2,7 +2,10 @@
 小倪，刚入门前端
 
 ## 博客首页
-https://ni864450591.github.io/
+https://ni864450591.github.io/index.html
+
+## dist目录
+使用webpack 在production下产生的
 
 ### 一、首页 
 1.背景
@@ -20,3 +23,5 @@ https://ni864450591.github.io/
 1.组件化
 2.页面的优化
 3.页面的开发
+
+

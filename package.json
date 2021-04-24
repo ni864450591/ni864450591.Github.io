@@ -5,7 +5,8 @@
   "main": "ball.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "webpack": "webpack"
+    "webpack": "webpack",
+    "dev": "webpack-dev-server --open chrome"
   },
   "repository": {
     "type": "git",
@@ -32,7 +33,7 @@
     "style-loader": "^1.0.1",
     "url-loader": "^3.0.0",
     "webpack": "^5.10.3",
-    "webpack-cli": "^4.2.0",
-    "webpack-dev-server": "^3.11.0"
+    "webpack-cli": "^3.3.12",
+    "webpack-dev-server": "^3.11.2"
   }
 }

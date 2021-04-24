@@ -4,7 +4,8 @@ const MiniCssExtractPlugin = require('mini-css-extract-plugin')
 const { srcPath, distPath } = require('./path')
 
 module.exports = {
-    mode: 'production',
+    // mode: 'production',
+    mode:"development",
     entry: 
     {
         index: path.join(srcPath, 'index.js'),
